@@ -1,0 +1,10 @@
+.idea*
+.DS_Store
+.ipynb_checkpoints
+log*
+*pytest_cache*
+*stats_seq*
+venv
+*__pycache__*
+*.png
+*.mp4
