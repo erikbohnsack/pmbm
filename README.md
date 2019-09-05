@@ -2,7 +2,7 @@
 
 This is the implementation of the Poisson Multi Bernoulli Mixture Filter
 for the Master Thesis `Multi-Object Tracking using either Deep Learning or PMBM filtering` by Erik Bohnsack and Adam Lilja 
-at Chalmers University of Technology.
+at Chalmers University of Technology, spring of 2019.
 
 ![](images/track_seq_0020_frame_0105.png)
 
