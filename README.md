@@ -12,7 +12,8 @@ The implementation is done in Python 3.7 and it has only been tested on Ubuntu 1
 
 `python 3.7` 
 
-1. Murtys, submoduled. `pip3 install ./murty`
+1. Get Murty-submodule `git submodule update`
+1. Install Murty`pip3 install ./murty`
 1. filterpy `pip3 install filterpy`
 1. motmetrics `pip3 install motmetrics`
 1. deap `pip3 install deap`  
